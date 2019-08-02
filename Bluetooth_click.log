@@ -1,0 +1,14 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F407VG -BIN -LHF -DL -SSA -O11111114 -fo16 -N"E:\Bluetooth_click.mcpar" -SP"E:\mikroC PRO for ARM\Defs\" -SP"E:\mikroC PRO for ARM\Uses\ST M4\" -SP"E:\" -SP"E:\mikroC PRO for ARM\Packages\FT800\Uses\" -SP"E:\mikroC PRO for ARM\Packages\FT810\Uses\" -SP"E:\mikroC PRO for ARM\Packages\FT812\Uses\" -IP"E:\mikroC PRO for ARM\Uses\TI M3\" -IP"E:\" -IP"E:\mikroC PRO for ARM\Packages\FT800\Uses\" -IP"E:\mikroC PRO for ARM\Packages\FT810\Uses\" -IP"E:\mikroC PRO for ARM\Packages\FT812\Uses\" "Bluetooth_click.c" "BT_Routines.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_4XX.emcl" "__Lib_GPIO_32F4xx_Defs.emcl" "__Lib_GPIO_32F4xx.emcl" "__Lib_CString.emcl" "__Lib_I2C_123.emcl" "__Lib_SPI_123.emcl" "__Lib_UART_123_45_6.emcl" "__Lib_USB_32F4xx.emcl" "__Lib_TFT.emcl" "__Lib_TFT_Defs.emcl" "__Lib_TouchPanel_TFT.emcl" "__Lib_STMPE610.emcl" "__Lib_FT800_Defs_STM32.emcl" "__Lib_FT800_STM32.emcl" "__Lib_FT810_Defs_STM32.emcl" "__Lib_FT810_STM32.emcl" "__Lib_FT812_Defs_STM32.emcl" "__Lib_FT812_STM32.emcl"	 
+diagnostics: 0	122	Compilation Started	e
+hint: 0	1004	interrupt handler (interrupt at 0x0037)	E
+diagnostics: 272	123	Compiled Successfully	E
+diagnostics: 0	122	Compilation Started	E
+diagnostics: 51	123	Compiled Successfully	E
+diagnostics: 0	127	All files Compiled in 219 ms	 
+hint: 0	1144	Used RX: 16 (100%)   Free RX: 0 (0%)	Used RX: 16 (100%)   Free RX: 0 (0%)
+hint: 0	1144	Static RAM (bytes): 507   Dynamic RAM (bytes): 130561	Static RAM (bytes): 507   Dynamic RAM (bytes): 130561
+hint: 0	1144	Used ROM (bytes): 22863 (2%)  Free ROM (bytes): 1025713 (98%)	Used ROM (bytes): 22863 (2%)  Free ROM (bytes): 1025713 (98%)
+diagnostics: 0	125	Project Linked Successfully	Bluetooth_click.mcpar
+diagnostics: 0	128	Linked in 1094 ms	 
+diagnostics: 0	129	Project 'Bluetooth_click.mcpar' completed: 1750 ms	 
+diagnostics: 0	103	Finished successfully: 05 Feb 2019, 20:30:45	Bluetooth_click.mcpar
